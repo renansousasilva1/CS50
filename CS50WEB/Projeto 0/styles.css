@@ -1,0 +1,116 @@
+.navbar{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;}
+
+.navbar-item-google{margin: 10px;}
+
+a:link{color: black; text-decoration: none;}
+a:visited{color: black;}
+a:hover{color: black;}
+a:active{color: black;}
+
+img.logo{height: 120px;margin-left: 540px;margin-top: -20px;}
+
+.input-pesquisa{
+    display: flex;
+    z-index:3;
+    height: 44px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 25px;
+    margin: 0 auto;
+    width: 584px;
+    max-width: 584px;
+    margin-top: 5px;
+    padding-left: 10px;}
+
+input.btn-google{
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    border: 1px solid #f8f9fa;
+    color: #3c4043;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 10px 4px;
+    padding: 0px 16px;
+    height: 45px;
+    line-height: 30px;
+    margin-left: 550px;
+    min-width: 60px;
+    max-width: fit-content;
+    block-size: 60px;
+    max-block-size: 30px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;}
+
+input.btn-google2{
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    border: 1px solid #f8f9fa;
+    color: #3c4043;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    min-width: 60px;
+    max-width: fit-content;
+    block-size: 60px;
+    max-block-size: 30px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.h1-advanced{
+    color: red;
+    font-size: 20px;
+    margin: 25px 35px;}
+.h2-advanced{
+    font-size:16px;
+    color: #3c4043;}
+
+.div-advanced{
+    margin-left: 35px;}
+
+.row-input{
+display: flex;
+flex-direction: row;
+align-items: center;
+margin-top: 20px;}
+
+.esquerda{width: 200px;}
+.direita{width: 380px;}
+.search1{width: 385px;}
+
+p.advanced{
+    margin-top: 10px;
+    font-size: 14px;
+    vertical-align: middle;
+    align-items: flex-start;}
+
+.btn-advanced{
+box-shadow: none;
+background-color: #4d90fe;
+background-image: -webkit-linear-gradient(top,#4d90fe, #4787ed);
+background-image: -moz-linear-gradient(top,#4d90fe, #4787ed);
+background-image: -ms-linear-gradient(top,#4d90fe, #4787ed);
+background-image: -o-linear-gradient(top,#4d90fe, #4787ed);
+background-image: linear-gradient(top,#4d90fe, #4787ed);
+border: 1px solid #3079ed;
+color: white;}
+
+.btn-search{
+    display: flex;
+    justify-content: flex-end;
+    width: 585px;
+    margin-top: 30px;
+
+}
+
+
+
+
+
+
