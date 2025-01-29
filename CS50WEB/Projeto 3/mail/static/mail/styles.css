@@ -1,0 +1,13 @@
+textarea {
+    min-height: 400px;
+}
+
+.read{
+    cursor: pointer;
+    background-color: gray;
+}
+
+.unread{
+    cursor: pointer;
+    background-color: green;
+}
