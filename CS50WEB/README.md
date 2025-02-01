@@ -18,13 +18,13 @@ Este curso aprofunda os conceitos abordados no **CS50**, explorando o design e a
 - Escalabilidade e Segurança
 - APIs e integração com serviços em nuvem
 
-## 🚀 O que você aprenderá
+## 🚀 O que eu aprendi?
 - Criar e estruturar aplicações web modernas
 - Desenvolver e consumir APIs
-- Trabalhar com bancos de dados SQL
+- Trabalhar com bancos de dados
 - Criar interfaces interativas e dinâmicas
 - Implementar autenticação e segurança em aplicações web
-- Implantar aplicações na nuvem usando GitHub, Heroku e outros serviços
+- Implantar aplicações na nuvem usando GitHub, Conteige Cloud e outros serviços
 
 ## 📌 Pré-requisitos
 Para acompanhar o curso, é recomendado ter conhecimento prévio em programação, como:
